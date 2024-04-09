@@ -3,7 +3,10 @@
 This repository contains a Python-based solution for sending personalized cold outreach emails to a list of leads. The system leverages the powerful combination of CrewAI, a library for orchestrating AI tasks, and GROQ, a language model developed by Anthropic that offers exceptional performance and accessibility.
 
 
-- **GROQ Language Model**: The project utilizes the GROQ language model, which is a large language model developed by Anthropic. GROQ is renowned for its speed and efficiency, making it an ideal choice for real-time applications like this email personalization system. Importantly, GROQ is freely available for use, providing a cost-effective solution for this project.
+- **GROQ **:The project utilizes Groq's specialized AI hardware, specifically their Language Processing Units (LPUs). These LPUs are designed to run large language models much faster and more efficiently compared to traditional CPUs or GPUs. For example, one of Groq's LPUs running their Mixl model can process 500 tokens per second - that's 25 times faster than ChatGPT and 10 times faster than Google's Gemini 1.5! This allows for near-instantaneous language processing, making it perfect for real-time applications like this email personalization system.
+
+
+-** Mixtral model**: This is a highly capable and efficient open-source language model developed by Mistral AI that demonstrates strong performance across a variety of tasks while using a fraction of the active parameters compared to other large models.
 
 - **CrewAI Agents**: The project integrates the CrewAI library to orchestrate the email personalization and ghostwriting tasks. CrewAI enables the creation of "agents" and "tasks" that can be efficiently managed and executed in parallel, allowing for scalable and high-throughput processing of the email personalization and sending workflows.
 
