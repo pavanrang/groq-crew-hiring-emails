@@ -1,0 +1,10 @@
+Hey David,
+
+I hope you're having a great day! I'm Satya Viswa Pavan Ranga, a Masters student at Northeastern University, specializing in Statistical Modeling. Your interest in [Company]'s deployment process and bottlenecks caught my attention.
+
+Having a Computer Science background and experience at Cognizant, I've mastered data management and statistical analysis. I've created ingestion flows for Amex and analyzed Airbnb listings with machine learning.
+
+Given your DevOps engineer role, focusing on automation and continuous integration, I believe my Python, R, SQL, and visualization skills can significantly contribute to [Company]'s goals. I'm excited to explore potential opportunities with you!
+
+Warm regards,
+Satya Viswa Pavan Ranga

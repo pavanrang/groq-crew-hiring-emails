@@ -1,0 +1,15 @@
+```
+Hey Daniel,
+
+I hope you're doing great! I'm Satya Viswa Pavan Ranga, a Masters student at Northeastern University, specializing in Statistical Modeling. I was checking out your profile and really enjoyed seeing your work in machine learning and AI applications as a software engineer.
+
+As a Computer Science and Engineering graduate with experience at Cognizant, I've sharpened my skills in data management and statistical analysis. Some of my projects include building ingestion flows for Amex and analyzing Airbnb listings using ML.
+
+Given our shared interest in AI, I'm excited to bring my Python, R, SQL, and visualization tools expertise to [Company]'s goals. I recently came across some new AI algorithm research that I believe could be valuable for your team. Would you be open to discussing potential opportunities?
+
+Looking forward to connecting!
+
+Best,
+
+Satya Viswa Pavan Ranga
+```

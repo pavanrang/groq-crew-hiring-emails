@@ -1,0 +1,13 @@
+```
+Hey Jessica Wilson!
+
+I hope you're having a great day! I'm Satya Viswa Pavan Ranga, a Masters student at Northeastern University, specializing in Statistical Modeling within the Analytics program. I recently came across [Company] and was blown away by your data-driven decision-making approach.
+
+With a Computer Science and Engineering background and experience at Cognizant, I've honed my data management and statistical analysis skills. We recently talked about the possibility of implementing a new microservice in an existing system, and I believe my experience matches [Company]'s goals perfectly. My projects include setting up Amex ingestion flows and analyzing Airbnb listings using machine learning.
+
+I'm really pumped about the opportunity to contribute to [Company] with my Python, R, SQL, and visualization tool expertise. Can we chat more about this?
+
+Best,
+
+Satya Viswa Pavan Ranga
+```

@@ -1,0 +1,12 @@
+Hey Emily!
+
+I hope you're doing great! I'm Satya Viswa Pavan Ranga, a Masters student at Northeastern University, specializing in Statistical Modeling. I was really impressed by your sharp observations and comprehensive testing approach during our recent conversation about how [Company] masterfully uses data for decision-making.
+
+Having a Bachelor's in Computer Science and Engineering and experience at Cognizant, I've sharpened my skills in data management and statistical analysis. Some of my projects include setting up data ingestion flows for Amex and analyzing Airbnb listings using machine learning.
+
+I think my expertise in Python, R, SQL, and visualization tools will fit in seamlessly with your team's approach, and I'm excited to contribute to [Company]'s goals. Can we chat more about potential opportunities?
+
+Looking forward to hearing from you!
+
+Best,
+Satya Viswa Pavan Ranga

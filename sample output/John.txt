@@ -1,0 +1,13 @@
+```
+Hey John!
+
+I hope you're having a great day. I'm Satya Viswa Pavan Ranga, a Masters student at Northeastern University, specializing in Statistical Modeling. I was really inspired by your forward-thinking approach to data-driven decision-making when we talked about the upcoming project and its requirements.
+
+Having a Bachelor's in Computer Science and Engineering, and experience at Cognizant, I've sharpened my skills in data management and statistical analysis. I've worked on projects like building data ingestion flows for Amex and analyzing Airbnb listings using machine learning.
+
+I'm excited to bring my expertise in Python, R, SQL, and visualization tools to your company's goals. I'd love to chat more about potential opportunities.
+
+Best,
+
+Satya Viswa Pavan Ranga
+```

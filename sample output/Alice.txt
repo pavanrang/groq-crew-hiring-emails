@@ -1,0 +1,15 @@
+Hey Alice!
+
+I hope you're having a fantastic day. I'm Satya Viswa Pavan Ranga, a Master's student at Northeastern University, specializing in Statistical Modeling. I was super excited to learn about your frontend developer role at [Company] and your enthusiasm for user experience design.
+
+With a background in Computer Science and Engineering, and experience at Cognizant, I've developed strong skills in data management and statistical analysis. I've tackled projects like crafting Amex data ingestion flows and analyzing Airbnb listings using machine learning.
+
+Our shared interest in the technology-user experience intersection makes me eager to bring my Python, R, SQL, and visualization tools expertise to [Company]'s goals. I recently checked out your latest UI mockups, and I'm impressed—they're well-designed and user-friendly!
+
+I'd love to chat more about potential opportunities, especially ones that involve collaborating with a talented and enthusiastic team like yours.
+
+Looking forward to our conversation!
+
+Warm regards,
+
+Satya Viswa Pavan Ranga
