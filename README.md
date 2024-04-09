@@ -11,7 +11,6 @@ This repository contains a Python-based solution for sending personalized cold o
 
 - **Email Ghostwriting**: The `EmailPersonalizationAgents` class also creates a "Ghostwriter" agent that can revise the personalized email drafts to adopt a more informal, engaging, and sales-oriented tone, mirroring the desired communication style.
 
-- **CSV-based Lead Data**: The script reads lead information from a CSV file and generates personalized email tasks for each lead, streamlining the data management process.
 
 - **Email Sending**: The `mail.py` module handles the process of sending the personalized emails using a Gmail SMTP server, ensuring the delivery of the personalized outreach messages.
 
