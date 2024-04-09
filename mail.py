@@ -5,9 +5,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 # Email configuration
-sender_email = "pavan.sv.ranga@gmail.com"
-receiver_email = "satyapavanr8@gmail.com"
-password = "owpebvlvrgnpfocv"
+sender_email = "your mail here"
+password = "your password here"
 
 
 # Path to the folder containing output text files
