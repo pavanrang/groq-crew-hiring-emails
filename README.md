@@ -2,7 +2,6 @@
 
 This repository contains a Python-based solution for sending personalized cold outreach emails to a list of leads. The system leverages the powerful combination of CrewAI, a library for orchestrating AI tasks, and GROQ, a language model developed by Anthropic that offers exceptional performance and accessibility.
 
-## Key Features
 
 - **GROQ Language Model**: The project utilizes the GROQ language model, which is a large language model developed by Anthropic. GROQ is renowned for its speed and efficiency, making it an ideal choice for real-time applications like this email personalization system. Importantly, GROQ is freely available for use, providing a cost-effective solution for this project.
 
