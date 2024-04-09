@@ -6,7 +6,7 @@ This repository contains a Python-based solution for sending personalized cold o
 
 - **GROQ Language Model**: The project utilizes the GROQ language model, which is a large language model developed by Anthropic. GROQ is renowned for its speed and efficiency, making it an ideal choice for real-time applications like this email personalization system. Importantly, GROQ is freely available for use, providing a cost-effective solution for this project.
 
-- **CrewAI Integration**: The project integrates the CrewAI library to orchestrate the email personalization and ghostwriting tasks. CrewAI enables the creation of "agents" and "tasks" that can be efficiently managed and executed in parallel, allowing for scalable and high-throughput processing of the email personalization and sending workflows.
+- **CrewAI Agents**: The project integrates the CrewAI library to orchestrate the email personalization and ghostwriting tasks. CrewAI enables the creation of "agents" and "tasks" that can be efficiently managed and executed in parallel, allowing for scalable and high-throughput processing of the email personalization and sending workflows.
 
 - **Email Personalization**: The `EmailPersonalizationAgents` class creates an "Email Personalizer" agent that can customize a template email for each recipient based on their information (name, email, bio, last conversation).
 
