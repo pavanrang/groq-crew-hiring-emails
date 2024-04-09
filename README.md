@@ -7,10 +7,6 @@ This repository contains a Python-based solution for sending personalized cold o
 
 - **CrewAI Agents**: The project integrates the CrewAI library to orchestrate the email personalization and ghostwriting tasks. CrewAI enables the creation of "agents" and "tasks" that can be efficiently managed and executed in parallel, allowing for scalable and high-throughput processing of the email personalization and sending workflows.
 
-- **Email Personalization**: The `EmailPersonalizationAgents` class creates an "Email Personalizer" agent that can customize a template email for each recipient based on their information (name, email, bio, last conversation).
-
-- **Email Ghostwriting**: The `EmailPersonalizationAgents` class also creates a "Ghostwriter" agent that can revise the personalized email drafts to adopt a more informal, engaging, and sales-oriented tone, mirroring the desired communication style.
-
 
 - **Email Sending**: The `mail.py` module handles the process of sending the personalized emails using a Gmail SMTP server, ensuring the delivery of the personalized outreach messages.
 
